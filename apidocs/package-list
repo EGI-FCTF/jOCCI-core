@@ -1,0 +1,9 @@
+cz.cesnet.cloud.occi
+cz.cesnet.cloud.occi.collection
+cz.cesnet.cloud.occi.core
+cz.cesnet.cloud.occi.exception
+cz.cesnet.cloud.occi.infrastructure
+cz.cesnet.cloud.occi.infrastructure.enumeration
+cz.cesnet.cloud.occi.parser
+cz.cesnet.cloud.occi.renderer
+cz.cesnet.cloud.occi.type
